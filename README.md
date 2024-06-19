@@ -7,7 +7,7 @@ Below are the models architecture used for this experience.\
 <img src="/img/models.jpeg">
 \
 The features used are TF-IDF vectors extracted from the whole text corpus.\
-<img title="High level view of method" src="/img/high_level_view.jpeg">
+<img title="High level view of method" src="/img/high_level_view_methodd.jpeg">
 \
 
 For the multi-head architecture, the total loss is the sum of sex and date interval losses.\
